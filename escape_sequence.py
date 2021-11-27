@@ -1,1 +1,7 @@
-print("Hello \"World\" World!")
+print("Hello \"World\" World!") 
+print('I\m Sid')
+print("Hi I\'m Sid.\nI study at CET Bhubaneswar.\t Ghatikia")
+print("This is \ backslash")
+print("This is second backslash \\")
+print("This is double backslash \\\\")
+print("Hell\blo")
